@@ -48,7 +48,6 @@ import javax.swing.JOptionPane;
 //如果余数为8，那对应的最后一位身份证的号码为4；
 //如果余数为9，那对应的最后一位身份证的号码为3；
 //如果余数为10，那对应的最后一位身份证的号码为2。
-//46903019990209621X
 public class IDcard {
 
     public static void main(String[] args) {
